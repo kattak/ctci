@@ -1,3 +1,6 @@
+## Javascript Tests & Solutions - Cracking the Coding Interview Problems
+Review the solutions in the *lib* directory or comment them out and write your own.
+
 ### Run the code and test
 This project uses Mocha and Chai for testing.
 <br>
@@ -12,7 +15,7 @@ npm install -g chai
 ```
 <br>
 
-#### Run tests:
+#### Run all tests:
 
 ```bash
 mocha --recursive
